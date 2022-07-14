@@ -2,7 +2,7 @@
 
 Página personal
 
-Tecnologias:
+Tecnologias:  
 HTML5  
 CSS3  
 Javascript  

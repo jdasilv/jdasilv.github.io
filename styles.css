@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+  }
+h1 {
+    color: #000; 
+    text-align: center;   
+}
+h2 {
+    color: #333;
+    text-align: center;   
+}
+h3 {
+    color: #444;
+    text-decoration: underline;  
+}
