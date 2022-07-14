@@ -3,6 +3,6 @@
 Página personal
 
 Tecnologias:
-HTML5
-CSS3
-Javascript
+HTML5  
+CSS3  
+Javascript  
