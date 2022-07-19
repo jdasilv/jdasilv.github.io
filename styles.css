@@ -1,15 +1,65 @@
+/* ----------------------- Body --------------------------- */
 body {
-    background-color: lightblue;
+    background-color: #f9f9f9;
+    font-family: helvetica;
   }
+/* ----------------------- Partes --------------------------- */
+#parte{
+    margin-bottom:50px;
+    line-height:15px;
+}
+
+/* ----------------------- Textos --------------------------- */
+
 h1 {
-    color: #000; 
+    color: #000000; 
     text-align: center;   
 }
-h2 {
-    color: #333;
+#subtitulo0 {
+    color: #333333;
     text-align: center;   
+}
+#subtitulo1 {
+    color: #444444;
+    font-weight: 800;
+}
+#subtitulo2 {
+    color: #444444;
+    
+    text-decoration: underline; 
 }
 h3 {
-    color: #444;
-    text-decoration: underline;  
+    color: #444444; 
 }
+h4 {
+    color: #666666; 
+}
+
+/* ----------------------- Imagenes --------------------------- */
+
+/* # is id selector */
+#Fotocarne {
+    width:100px;
+    float: right;
+    border: solid 2px #111;
+}
+
+/* 
+Hexadecimal color system
+is compromised by 3 chracters pairs wich designate a specific RGB color
+1st pair: amount of red color
+2nd pair: amount of green color 
+3rd pair: amount of blue color 
+
+hexadecimal character
+0 1 2 3 4 5 6 7 8 9 a  b  c  d  e  f
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+hexadecimal pair
+00 to ff
+00 01 --- 0a 0b --- 9f af  --- fe ff
+
+#ddd = #dddddd
+#000000 = absolute black  <-----Espectro------>  #ffffff = absolute white
+*/
+
